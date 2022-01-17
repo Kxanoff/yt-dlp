@@ -1442,3 +1442,4 @@
  - **zingmp3:album**
  - **zoom**
  - **Zype**
+ - **Uzmovi**
